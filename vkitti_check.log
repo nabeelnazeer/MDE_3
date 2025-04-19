@@ -1,0 +1,284 @@
+Starting Virtual KITTI 2 dataset verification...
+Expected total files: 212600
+
+Dataset Check Summary:
+Total files checked: 42520
+Missing files: 42520
+Corrupted files: 0
+
+Missing files:
+- /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/rgb/Camera_1/rgb_00092.png
+- /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/rgb/Camera_1/rgb_00086.png
+- /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/rgb/Camera_1/rgb_00051.png
+- /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/rgb/Camera_1/rgb_00045.png
+- /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/rgb/Camera_1/rgb_00079.png
+- /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/rgb/Camera_1/rgb_00290.png
+- /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/rgb/Camera_1/rgb_00284.png
+- /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/rgb/Camera_1/rgb_00253.png
+- /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/rgb/Camera_1/rgb_00247.png
+- /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/rgb/Camera_1/rgb_00441.png
+... and 42510 more
+Starting Virtual KITTI 2 dataset verification...
+Expected total files: 212600
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-right/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/30-deg-left/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/30-deg-right/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/clone/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/fog/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/morning/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/overcast/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/rain/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/sunset/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/15-deg-left/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/15-deg-right/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/30-deg-left/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/30-deg-right/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/clone/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/fog/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/morning/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/overcast/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/rain/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/sunset/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/15-deg-left/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/15-deg-right/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/30-deg-left/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/30-deg-right/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/clone/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/fog/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/morning/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/overcast/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/rain/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/sunset/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/15-deg-left/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/15-deg-right/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/30-deg-left/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/30-deg-right/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/clone/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/fog/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/morning/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/overcast/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/rain/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/sunset/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/15-deg-left/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/15-deg-right/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/30-deg-left/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/30-deg-right/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/clone/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/fog/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/morning/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/overcast/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/rain/frames/depth/depth
+Missing depth directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/sunset/frames/depth/depth
+
+Dataset Check Summary:
+Total files checked: 0
+Missing files: 0
+Corrupted files: 0
+Starting Virtual KITTI 2 dataset verification...
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/15-deg-left/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/15-deg-left/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/15-deg-right/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-right/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/15-deg-right/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-right/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/30-deg-left/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/30-deg-left/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/30-deg-left/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/30-deg-left/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/30-deg-right/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/30-deg-right/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/30-deg-right/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/30-deg-right/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/clone/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/clone/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/clone/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/clone/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/fog/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/fog/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/fog/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/fog/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/morning/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/morning/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/morning/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/morning/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/overcast/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/overcast/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/overcast/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/overcast/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/rain/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/rain/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/rain/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/rain/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/sunset/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/sunset/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene01/sunset/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/sunset/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/15-deg-left/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/15-deg-left/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/15-deg-left/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/15-deg-left/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/15-deg-right/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/15-deg-right/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/15-deg-right/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/15-deg-right/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/30-deg-left/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/30-deg-left/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/30-deg-left/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/30-deg-left/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/30-deg-right/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/30-deg-right/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/30-deg-right/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/30-deg-right/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/clone/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/clone/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/clone/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/clone/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/fog/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/fog/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/fog/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/fog/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/morning/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/morning/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/morning/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/morning/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/overcast/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/overcast/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/overcast/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/overcast/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/rain/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/rain/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/rain/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/rain/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/sunset/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/sunset/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene02/sunset/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene02/sunset/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/15-deg-left/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/15-deg-left/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/15-deg-left/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/15-deg-left/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/15-deg-right/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/15-deg-right/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/15-deg-right/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/15-deg-right/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/30-deg-left/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/30-deg-left/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/30-deg-left/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/30-deg-left/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/30-deg-right/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/30-deg-right/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/30-deg-right/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/30-deg-right/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/clone/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/clone/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/clone/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/clone/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/fog/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/fog/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/fog/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/fog/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/morning/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/morning/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/morning/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/morning/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/overcast/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/overcast/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/overcast/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/overcast/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/rain/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/rain/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/rain/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/rain/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/sunset/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/sunset/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene06/sunset/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene06/sunset/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/15-deg-left/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/15-deg-left/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/15-deg-left/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/15-deg-left/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/15-deg-right/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/15-deg-right/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/15-deg-right/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/15-deg-right/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/30-deg-left/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/30-deg-left/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/30-deg-left/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/30-deg-left/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/30-deg-right/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/30-deg-right/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/30-deg-right/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/30-deg-right/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/clone/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/clone/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/clone/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/clone/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/fog/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/fog/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/fog/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/fog/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/morning/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/morning/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/morning/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/morning/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/overcast/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/overcast/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/overcast/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/overcast/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/rain/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/rain/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/rain/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/rain/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/sunset/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/sunset/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene18/sunset/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene18/sunset/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/15-deg-left/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/15-deg-left/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/15-deg-left/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/15-deg-left/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/15-deg-right/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/15-deg-right/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/15-deg-right/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/15-deg-right/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/30-deg-left/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/30-deg-left/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/30-deg-left/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/30-deg-left/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/30-deg-right/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/30-deg-right/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/30-deg-right/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/30-deg-right/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/clone/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/clone/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/clone/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/clone/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/fog/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/fog/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/fog/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/fog/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/morning/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/morning/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/morning/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/morning/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/overcast/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/overcast/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/overcast/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/overcast/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/rain/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/rain/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/rain/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/rain/frames/depth/depth/Camera_1
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/sunset/frames/rgb/Camera_0 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/sunset/frames/depth/depth/Camera_0
+Missing directory: /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_rgb/Scene20/sunset/frames/rgb/Camera_1 or /Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene20/sunset/frames/depth/depth/Camera_1
+
+Dataset Statistics:
+
+Scene: Scene01
+Variants: ['15-deg-left', '15-deg-right', '30-deg-left', '30-deg-right', 'clone', 'fog', 'morning', 'overcast', 'rain', 'sunset']
+
+Scene: Scene02
+Variants: ['15-deg-left', '15-deg-right', '30-deg-left', '30-deg-right', 'clone', 'fog', 'morning', 'overcast', 'rain', 'sunset']
+
+Scene: Scene06
+Variants: ['15-deg-left', '15-deg-right', '30-deg-left', '30-deg-right', 'clone', 'fog', 'morning', 'overcast', 'rain', 'sunset']
+
+Scene: Scene18
+Variants: ['15-deg-left', '15-deg-right', '30-deg-left', '30-deg-right', 'clone', 'fog', 'morning', 'overcast', 'rain', 'sunset']
+
+Scene: Scene20
+Variants: ['15-deg-left', '15-deg-right', '30-deg-left', '30-deg-right', 'clone', 'fog', 'morning', 'overcast', 'rain', 'sunset']
+
+Total number of samples: 0
+Missing files: 0
+Corrupted files: 0
+Starting Virtual KITTI 2 dataset verification...
+
+Dataset Statistics:
+
+Scene: Scene01
+Variants: ['15-deg-left', '15-deg-right', '30-deg-left', '30-deg-right', 'clone', 'fog', 'morning', 'overcast', 'rain', 'sunset']
+Images in Camera_0: 447
+Camera_0 RGB image size: None
+Camera_0 Depth image size: None
+Camera_0 RGB format: None
+Camera_0 Depth format: None
+Images in Camera_1: 447
+Camera_1 RGB image size: None
+Camera_1 Depth image size: None
+Camera_1 RGB format: None
+Camera_1 Depth format: None
+
+Scene: Scene02
+Variants: ['15-deg-left', '15-deg-right', '30-deg-left', '30-deg-right', 'clone', 'fog', 'morning', 'overcast', 'rain', 'sunset']
+Images in Camera_0: 233
+Camera_0 RGB image size: None
+Camera_0 Depth image size: None
+Camera_0 RGB format: None
+Camera_0 Depth format: None
+Images in Camera_1: 233
+Camera_1 RGB image size: None
+Camera_1 Depth image size: None
+Camera_1 RGB format: None
+Camera_1 Depth format: None
+
+Scene: Scene06
+Variants: ['15-deg-left', '15-deg-right', '30-deg-left', '30-deg-right', 'clone', 'fog', 'morning', 'overcast', 'rain', 'sunset']
+Images in Camera_0: 270
+Camera_0 RGB image size: None
+Camera_0 Depth image size: None
+Camera_0 RGB format: None
+Camera_0 Depth format: None
+Images in Camera_1: 270
+Camera_1 RGB image size: None
+Camera_1 Depth image size: None
+Camera_1 RGB format: None
+Camera_1 Depth format: None
+
+Scene: Scene18
+Variants: ['15-deg-left', '15-deg-right', '30-deg-left', '30-deg-right', 'clone', 'fog', 'morning', 'overcast', 'rain', 'sunset']
+Images in Camera_0: 339
+Camera_0 RGB image size: None
+Camera_0 Depth image size: None
+Camera_0 RGB format: None
+Camera_0 Depth format: None
+Images in Camera_1: 339
+Camera_1 RGB image size: None
+Camera_1 Depth image size: None
+Camera_1 RGB format: None
+Camera_1 Depth format: None
+
+Scene: Scene20
+Variants: ['15-deg-left', '15-deg-right', '30-deg-left', '30-deg-right', 'clone', 'fog', 'morning', 'overcast', 'rain', 'sunset']
+Images in Camera_0: 837
+Camera_0 RGB image size: None
+Camera_0 Depth image size: None
+Camera_0 RGB format: None
+Camera_0 Depth format: None
+Images in Camera_1: 837
+Camera_1 RGB image size: None
+Camera_1 Depth image size: None
+Camera_1 RGB format: None
+Camera_1 Depth format: None
+
+Total number of samples: 0
+Missing files: 0
+Corrupted files: 100
+
+Corrupted files:
+- Error loading sample images: [Errno 2] No such file or directory: '/Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/depth/Camera_0/rgb_00000.png'
+- Error loading sample images: [Errno 2] No such file or directory: '/Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-left/frames/depth/Camera_1/rgb_00000.png'
+- Error loading sample images: [Errno 2] No such file or directory: '/Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-right/frames/depth/Camera_0/rgb_00000.png'
+- Error loading sample images: [Errno 2] No such file or directory: '/Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/15-deg-right/frames/depth/Camera_1/rgb_00000.png'
+- Error loading sample images: [Errno 2] No such file or directory: '/Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/30-deg-left/frames/depth/Camera_0/rgb_00000.png'
+- Error loading sample images: [Errno 2] No such file or directory: '/Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/30-deg-left/frames/depth/Camera_1/rgb_00000.png'
+- Error loading sample images: [Errno 2] No such file or directory: '/Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/30-deg-right/frames/depth/Camera_0/rgb_00000.png'
+- Error loading sample images: [Errno 2] No such file or directory: '/Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/30-deg-right/frames/depth/Camera_1/rgb_00000.png'
+- Error loading sample images: [Errno 2] No such file or directory: '/Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/clone/frames/depth/Camera_0/rgb_00000.png'
+- Error loading sample images: [Errno 2] No such file or directory: '/Users/nabeelnazeer/Documents/Project-s6/Datasets/vkitti_2.0.3_depth/Scene01/clone/frames/depth/Camera_1/rgb_00000.png'
+... and 90 more
